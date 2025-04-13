@@ -16,7 +16,7 @@ Cada linguagem e tecnologia abordada possui uma pasta dedicada, contendo:
 ---
 
 ## ✅ Tecnologias Estudadas
-## 🧠 Fundamento Essencial
+### Fundamento Essencial
 - [x] [Lógica de Programação](./logica-de-programacao.md)
 
 ### Back-End
