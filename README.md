@@ -11,29 +11,29 @@ Cada linguagem e tecnologia abordada possui uma pasta dedicada, contendo:
 
 ## ✅ Tecnologias Estudadas
 ### Back-End
-- [x] Golang [`./golang/`](./golang.md)
-- [x] Python [`./python/`](./python.md)
-- [x] Rust [`./rust/`](./rust.md)
-- [x] Node.js & Express [`./node-express/`](./nodejs&express.md)
+- [x] [Golang](./golang.md)
+- [x] [Python](./python.md)
+- [x] [Rust](./rust.md)
+- [x] [Node.js & Express](./nodejs&express.md)
 
 ### Front-End
-- [x] JavaScript [`./javascript/`](./javascript.md)
-- [x] HTML & CSS [`./html-css/`](./html-css.md)
-- [x] React.js [`./react/`](./react.md)
+- [x] [JavaScript](./javascript.md)
+- [x] [HTML & CSS](./html-css.md)
+- [x] [React.js](./react.md)
 
 ---
 
 ## 🛤️ Estrutura de Pastas
 ```bash
 estudos/
-├── golang/          # Estudos completos sobre Golang
-├── python/          # Estudos completos sobre Python
-├── rust/            # Estudos completos sobre Rust
-├── javascript/      # Estudos concluídos (Coderhouse)
-├── html-css/        # Estudos concluídos (Coderhouse)
-├── node-express/    # Estudos concluídos (Coderhouse)
-├── react/           # Estudos concluídos (Coderhouse)
-└── README.md        # Apresentação geral do repositório
+├── README.md                # Apresentação geral do repositório
+├── golang.md/               # Estudos completos sobre Golang
+├── python.nd/               # Estudos completos sobre Python
+├── rust.md/                 # Estudos completos sobre Rust
+├── javascript.md/           # Estudos concluídos (Coderhouse)
+├── html-css.md/             # Estudos concluídos (Coderhouse)
+├── node.js & express.md/    # Estudos concluídos (Coderhouse)
+└── react.md/                # Estudos concluídos (Coderhouse)
 ```
 
 ---
