@@ -11,15 +11,15 @@ Cada linguagem e tecnologia abordada possui uma pasta dedicada, contendo:
 
 ## ✅ Tecnologias Estudadas
 ### Back-End
-- [x] Golang [`./golang/`](./golang)
-- [x] Python [`./python/`](./python)
-- [x] Rust [`./rust/`](./rust)
-- [x] Node.js & Express [`./node-express/`](./node-express)
+- [x] Golang [`./golang/`](./golang.md)
+- [x] Python [`./python/`](./python.md)
+- [x] Rust [`./rust/`](./rust.md)
+- [x] Node.js & Express [`./node-express/`](./node-express.md)
 
 ### Front-End
-- [x] JavaScript [`./javascript/`](./javascript)
-- [x] HTML & CSS [`./html-css/`](./html-css)
-- [x] React.js [`./react/`](./react)
+- [x] JavaScript [`./javascript/`](./javascript.md)
+- [x] HTML & CSS [`./html-css/`](./html-css.md)
+- [x] React.js [`./react/`](./react.md)
 
 ---
 
