@@ -14,7 +14,7 @@ Cada linguagem e tecnologia abordada possui uma pasta dedicada, contendo:
 - [x] Golang [`./golang/`](./golang.md)
 - [x] Python [`./python/`](./python.md)
 - [x] Rust [`./rust/`](./rust.md)
-- [x] Node.js & Express [`./node-express/`](./node-express.md)
+- [x] Node.js & Express [`./node-express/`](./nodejs&express.md)
 
 ### Front-End
 - [x] JavaScript [`./javascript/`](./javascript.md)
