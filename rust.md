@@ -1,5 +1,7 @@
 # 🦀 Estudos em Rust — Segurança, Performance e Concorrência
 
+[`VOLTAR AO ÍNICIO`](./README.md)
+
 > Este documento acompanha meus estudos em **Rust**, uma linguagem focada em performance, segurança e concorrência sem garbage collector. O objetivo é dominar os princípios de sistemas seguros e eficientes, aplicáveis a desenvolvimento WebAssembly, CLI tools e contratos inteligentes.
 
 ---
