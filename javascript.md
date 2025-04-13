@@ -1,5 +1,7 @@
 # ✨ Estudos em JavaScript — Fundamentos da Web Dinâmica
 
+[`VOLTAR AO ÍNICIO`](./README.md)
+
 > Este documento registra meus estudos em **JavaScript**, iniciados e concluídos durante o curso da **Coderhouse**. O foco foi entender os fundamentos da linguagem e aplicá-los em interatividade, DOM, eventos e manipulação de dados para aplicações web dinâmicas.
 
 ---
